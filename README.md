@@ -41,9 +41,9 @@ Guild:         Open to remote / international teams
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente construindo APIs REST robustas com ASP.NET Core
-- 🌱 Evoluindo minha build com: RabbitMQ, Docker, CI/CD e DDD
-- 💬 Me pergunte sobre: .NET, Entity Framework, arquitetura de APIs
-- ⚡ Fun fact: estudo contínuo é minha skill passiva favorita
+- 🌱 Evoluindo minha build com: AI, RabbitMQ, Docker, AWS, JavaScript, Node.Js, React, TypeScript e Next.Js
+- 💬 Me pergunte sobre: .NET, Entity Framework, SQL, Design Patterns, Unit Test, Clean Code, SOLID, CI/CD e DDD
+- ⚡ Fun fact: estudo contínuo é minha skill favorita
 
 ---
 
