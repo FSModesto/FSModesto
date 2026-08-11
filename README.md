@@ -107,28 +107,28 @@ Guild:         Open to remote / international teams
 <tr>
 <td align="center" width="25%">
 <a href="https://github.com/FSModesto/CondoApp">
-<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/CondoApp/main/assets/icon.png" width="60" height="60"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/CondoApp/main/assets/icon.png" width="50" height="50"/>
 <br/><b>CondoApp</b>
 </a>
 <br/><sub>API para app de condomínio</sub>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/FSModesto/MoviesAPI">
-<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/MoviesAPI/main/assets/icon.png" width="60" height="60"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/MoviesAPI/main/assets/icon.png" width="50" height="50"/>
 <br/><b>MoviesAPI</b>
 </a>
 <br/><sub>API REST de filmes</sub>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/FSModesto/IdentityAPI">
-<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/IdentityAPI/main/assets/icon.png" width="60" height="60"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/IdentityAPI/main/assets/icon.png" width="50" height="50"/>
 <br/><b>IdentityAPI</b>
 </a>
 <br/><sub>Controle de usuários com .NET 6 + Identity</sub>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/FSModesto/WasteWiseEats">
-<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/WasteWiseEats/master/assets/icon.png" width="60" height="60"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/WasteWiseEats/master/assets/icon.png" width="50" height="50"/>
 <br/><b>WasteWiseEats</b>
 </a>
 <br/><sub>Aproveitamento de alimentos</sub>
