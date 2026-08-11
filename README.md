@@ -96,16 +96,6 @@ Guild:         Open to remote / international teams
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/FSModesto/FSModesto/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 📡 Reach Me / Connect
 
 <div align="center">
