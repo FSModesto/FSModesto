@@ -133,6 +133,13 @@ Guild:         Open to remote / international teams
 </a>
 <br/><sub>Aproveitamento de alimentos</sub>
 </td>
+<td align="center" width="25%">
+<a href="https://github.com/FSModesto/ProposalGenerator">
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/ProposalGenerator/main/assets/icon.png" width="50" height="50"/>
+<br/><b>ProposalGenerator</b>
+</a>
+<br/><sub>Gerador de orçamentos</sub>
+</td>
 </tr>
 </table>
 
