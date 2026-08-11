@@ -127,11 +127,11 @@ Guild:         Open to remote / international teams
 <br/><sub>Controle de usuários com .NET 6 + Identity</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/FSModesto/Proposal_Generator">
-<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/ProposalGenerator/main/assets/icon.png" width="60" height="60"/>
-<br/><b>Proposal_Generator</b>
+<a href="https://github.com/FSModesto/WasteWiseEats">
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/WasteWiseEats/master/assets/icon.png" width="60" height="60"/>
+<br/><b>WasteWiseEats</b>
 </a>
-<br/><sub>Gerador de propostas</sub>
+<br/><sub>Aproveitamento de alimentos</sub>
 </td>
 </tr>
 </table>
