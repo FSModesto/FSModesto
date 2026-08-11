@@ -87,9 +87,6 @@ Guild:         Open to remote / international teams
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FSModesto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSModesto&layout=compact&theme=radical&langs_count=6" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FSModesto&theme=radical" height="165"/>
 
 </div>
