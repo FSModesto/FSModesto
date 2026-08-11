@@ -51,18 +51,18 @@ Guild:         Open to remote / international teams
 <td align="center" width="50%" valign="top">
 
 ### 🟢 Core Stats (Maxed)
-<br/><br/>
+<br/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
-<br/><br/>
+<br/>
 
 <img loading="lazy" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28"/>
 <img loading="lazy" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" height="28"/>
 
-<br/><br/>
+<br/>
 
 <img loading="lazy" src="https://img.shields.io/badge/Design_Patterns-2E8B57?style=for-the-badge"/>
 <img loading="lazy" src="https://img.shields.io/badge/Clean_Code-2E8B57?style=for-the-badge"/>
@@ -75,20 +75,20 @@ Guild:         Open to remote / international teams
 <td align="center" width="50%" valign="top">
 
 ### 🟡 Skills Being Unlocked (In Progress)
-<br/><br/>
+<br/>
 <img loading="lazy" src="https://img.shields.io/badge/AI-FFB000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
 
-<br/><br/>
+<br/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
 
-<br/><br/>
+<br/>
 
 <img loading="lazy" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
 
