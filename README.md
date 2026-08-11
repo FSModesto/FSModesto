@@ -77,7 +77,7 @@ Guild:         Open to remote / international teams
 <a href="https://github.com/FSModesto/CondoApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=CondoApp&theme=radical" /></a>
 <a href="https://github.com/FSModesto/MoviesAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=MoviesAPI&theme=radical" /></a>
 <a href="https://github.com/FSModesto/IdentityAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=IdentityAPI&theme=radical" /></a>
-<a href="https://github.com/FSModesto/SafeMoney"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=SafeMoney&theme=radical" /></a>
+<a href="https://github.com/FSModesto/Proposal_Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=SafeMoney&theme=radical" /></a>
 
 </div>
 
