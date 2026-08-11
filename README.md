@@ -128,7 +128,7 @@ Guild:         Open to remote / international teams
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/FSModesto/Proposal_Generator">
-<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/Proposal_Generator/main/assets/icon.png" width="60" height="60"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/ProposalGenerator/main/assets/icon.png" width="60" height="60"/>
 <br/><b>Proposal_Generator</b>
 </a>
 <br/><sub>Gerador de propostas</sub>
