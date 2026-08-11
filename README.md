@@ -1,10 +1,7 @@
 ## Hi there 👋
-
 <!--
 **FSModesto/FSModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -41,7 +38,7 @@ Guild:         Open to remote / international teams
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente construindo APIs REST robustas com ASP.NET Core
-- 🌱 Evoluindo minha build com: AI, RabbitMQ, Docker, AWS, JavaScript, Node.Js, React, TypeScript e Next.Js
+- 🌱 Evoluindo minha build com: AI, RabbitMQ, Docker, AWS, JavaScript, Node.js, React, TypeScript e Next.js
 - 💬 Me pergunte sobre: .NET, Entity Framework, SQL, Design Patterns, Unit Test, Clean Code, SOLID, CI/CD e DDD
 - ⚡ Fun fact: estudo contínuo é minha skill favorita
 
@@ -49,21 +46,46 @@ Guild:         Open to remote / international teams
 
 ## ⚔️ Skill Tree
 
-### Core Stats (Maxed)
+<table align="center" border="0" cellspacing="15">
+<tr>
+<td align="center" width="50%" valign="top">
+
+### 🟢 Core Stats (Maxed)
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="45" height="45"/>
-<img loading="lazy" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="45"/>
+<img loading="lazy" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-<img loading="lazy" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" height="45"/>
+<img loading="lazy" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" height="28"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 
-### Skills Being Unlocked (In Progress)
+<br/><br/>
+
+<img loading="lazy" src="https://img.shields.io/badge/Design_Patterns-2E8B57?style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/badge/Clean_Code-2E8B57?style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/badge/SOLID-2E8B57?style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/badge/Unit_Test-2E8B57?style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/badge/CI%2FCD-2E8B57?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img loading="lazy" src="https://img.shields.io/badge/DDD-2E8B57?style=for-the-badge"/>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### 🟡 Skills Being Unlocked (In Progress)
+
+<img loading="lazy" src="https://img.shields.io/badge/AI-FFB000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img loading="lazy" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="45"/>
-<img loading="lazy" src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-orange?style=for-the-badge" height="45"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
+
+</td>
+</tr>
+</table>
 
 ### Soft Skills (Passive Buffs)
 `Resiliência` `Transparência` `Força de Vontade` `Interesse` `Prestatividade` `Trabalho em Equipe` `Persistência` `Foco`
@@ -72,14 +94,38 @@ Guild:         Open to remote / international teams
 
 ## 🗺️ Quest Log — Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/FSModesto/CondoApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=CondoApp&theme=radical" /></a>
-<a href="https://github.com/FSModesto/MoviesAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=MoviesAPI&theme=radical" /></a>
-<a href="https://github.com/FSModesto/IdentityAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=IdentityAPI&theme=radical" /></a>
-<a href="https://github.com/FSModesto/Proposal_Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FSModesto&repo=SafeMoney&theme=radical" /></a>
-
-</div>
+<table align="center" border="0" cellspacing="15">
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/FSModesto/CondoApp">
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/CondoApp/main/assets/icon.png" width="60" height="60"/>
+<br/><b>CondoApp</b>
+</a>
+<br/><sub>API para app de condomínio</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/FSModesto/MoviesAPI">
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/MoviesAPI/main/assets/icon.png" width="60" height="60"/>
+<br/><b>MoviesAPI</b>
+</a>
+<br/><sub>API REST de filmes</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/FSModesto/IdentityAPI">
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/IdentityAPI/main/assets/icon.png" width="60" height="60"/>
+<br/><b>IdentityAPI</b>
+</a>
+<br/><sub>Controle de usuários com .NET 6 + Identity</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/FSModesto/Proposal_Generator">
+<img loading="lazy" src="https://raw.githubusercontent.com/FSModesto/Proposal_Generator/main/assets/icon.png" width="60" height="60"/>
+<br/><b>Proposal_Generator</b>
+</a>
+<br/><sub>Gerador de propostas</sub>
+</td>
+</tr>
+</table>
 
 ---
 
