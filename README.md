@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FSModesto&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Level](https://img.shields.io/badge/LEVEL-4%20YEARS%20XP-9146FF?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-GRINDING%20TO%20SENIOR-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-GRINDING%20TO%20FULLSTACK-yellow?style=for-the-badge)
 
 </div>
 
