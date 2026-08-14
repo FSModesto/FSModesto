@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Class:        Backend Developer
 Specialization: .NET / C# 
 Current XP:    4 years
-Next Boss:     Senior Developer Role
+Next Boss:     FullStack Developer Role
 Main Quest:    Master distributed systems & clean architecture
 Guild:         Open to remote / international teams
 ```
