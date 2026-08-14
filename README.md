@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 Felipe de Souza Modesto
 
-### 🎮 Backend Developer | .NET Class | Level: Pleno → Senior (in progress)
+### 🎮 Backend Developer | .NET Class | Level: Senior → FullStack (in progress)
 
 <div align="center">
 
