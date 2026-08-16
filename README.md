@@ -65,10 +65,10 @@ Guild:         Open to remote / international teams
 <td align="center" width="50%" valign="top">
 ### 🟡 Skills Being Unlocked (In Progress)
 <br/><br/>
-<br/><br/>
 <img loading="lazy" src="https://img.shields.io/badge/AI-FFB000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<br/><br/>
 <br/><br/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
