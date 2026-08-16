@@ -78,6 +78,7 @@ Guild:         Open to remote / international teams
 </td>
 </tr>
 </table>
+
 ### Soft Skills (Passive Buffs)
 `Resiliência` `Transparência` `Força de Vontade` `Interesse` `Prestatividade` `Trabalho em Equipe` `Persistência` `Foco`
 
