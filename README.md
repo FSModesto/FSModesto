@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--
-**FSModesto/FSModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FSModesto/FSModesto** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 </div>
 ---
 ## 🧙 Character Sheet
-```yaml
+yaml
 Class:        Backend Developer
 Specialization: .NET / C# 
 Current XP:    4 years
 Next Boss:     FullStack Developer Role
 Main Quest:    Master distributed systems & clean architecture
 Guild:         Open to remote / international teams
-```
+
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente construindo APIs REST robustas com ASP.NET Core
 - 🌱 Evoluindo minha build com: AI, RabbitMQ, Docker, Azure, JavaScript, Angular e TypeScript
@@ -44,10 +44,6 @@ Guild:         Open to remote / international teams
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<br/><br/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" height="45"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
 <br/><br/>
 <img loading="lazy" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="28"/>
 <img loading="lazy" src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" height="28"/>
@@ -68,13 +64,16 @@ Guild:         Open to remote / international teams
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
 <br/><br/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45"/>
+<br/><br/>
+<img loading="lazy" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
 </td>
 </tr>
 </table>
 ### Soft Skills (Passive Buffs)
-`Resiliência` `Transparência` `Força de Vontade` `Interesse` `Prestatividade` `Trabalho em Equipe` `Persistência` `Foco`
+Resiliência Transparência Força de Vontade Interesse Prestatividade Trabalho em Equipe Persistência Foco
 ---
 ## 🗺️ Quest Log — Featured Projects
 <table align="center" border="0" cellspacing="15">
