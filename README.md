@@ -74,7 +74,7 @@ Guild:         Open to remote / international teams
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45"/>
 <br/><br/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="45" height="45"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 </td>
 </tr>
 </table>
