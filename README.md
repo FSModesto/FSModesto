@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--
-**FSModesto/FSModesto** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+**FSModesto/FSModesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,22 +12,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👨‍💻 Felipe de Souza Modesto
+
 ### 🎮 Backend Developer | .NET Class | Level: Senior → FullStack (in progress)
+
 <div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=FSModesto&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Level](https://img.shields.io/badge/LEVEL-4%20YEARS%20XP-9146FF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-GRINDING%20TO%20FULLSTACK-yellow?style=for-the-badge)
+
 </div>
+
 ---
+
 ## 🧙 Character Sheet
-yaml
+
+```yaml
 Class:        Backend Developer
 Specialization: .NET / C# 
 Current XP:    4 years
 Next Boss:     FullStack Developer Role
 Main Quest:    Master distributed systems & clean architecture
 Guild:         Open to remote / international teams
-
+```
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente construindo APIs REST robustas com ASP.NET Core
 - 🌱 Evoluindo minha build com: AI, RabbitMQ, Docker, Azure, JavaScript, Angular e TypeScript
@@ -73,9 +80,12 @@ Guild:         Open to remote / international teams
 </tr>
 </table>
 ### Soft Skills (Passive Buffs)
-Resiliência Transparência Força de Vontade Interesse Prestatividade Trabalho em Equipe Persistência Foco
+`Resiliência` `Transparência` `Força de Vontade` `Interesse` `Prestatividade` `Trabalho em Equipe` `Persistência` `Foco`
+
 ---
+
 ## 🗺️ Quest Log — Featured Projects
+
 <table align="center" border="0" cellspacing="15">
 <tr>
 <td align="center" width="25%">
@@ -115,19 +125,33 @@ Resiliência Transparência Força de Vontade Interesse Prestatividade Trabalho 
 </td>
 </tr>
 </table>
+
 ---
+
 ## 📊 Player Stats
+
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FSModesto&theme=radical" height="165"/>
+
 </div>
+
 ---
+
 ## 📡 Reach Me / Connect
+
 <div align="center">
+
 <a href="https://www.linkedin.com/in/felipe-modesto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:felipesouzausjt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/FSModesto" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
 </div>
+
 ---
+
 <div align="center">
+
 *"Continuous learning = passive XP gain."* 🚀
+
 </div>
