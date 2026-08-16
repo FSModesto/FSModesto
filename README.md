@@ -37,7 +37,7 @@ Guild:         Open to remote / international teams
 ```
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente construindo APIs REST robustas com ASP.NET Core
-- 🌱 Evoluindo minha build com: AI, RabbitMQ, Docker, Azure, JavaScript, TypeScript e Angular
+- 🌱 Evoluindo minha build com: Node.js, AI, RabbitMQ, Docker, Azure, JavaScript, TypeScript e Angular
 - 💬 Me pergunte sobre: .NET, Entity Framework, SQL, Design Patterns, Unit Test, Clean Code, SOLID, CI/CD e DDD
 - ⚡ Fun fact: estudo contínuo é minha skill favorita
 ---
@@ -74,6 +74,7 @@ Guild:         Open to remote / international teams
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45"/>
 <br/><br/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width="45" height="45"/>
 </td>
 </tr>
 </table>
